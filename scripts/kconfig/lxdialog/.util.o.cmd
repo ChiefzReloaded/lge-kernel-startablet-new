@@ -3,7 +3,7 @@ cmd_scripts/kconfig/lxdialog/util.o := gcc -Wp,-MD,scripts/kconfig/lxdialog/.uti
 deps_scripts/kconfig/lxdialog/util.o := \
   scripts/kconfig/lxdialog/util.c \
     $(wildcard include/config/color.h) \
-  /usr/lib/gcc/x86_64-linux-gnu/4.4.5/include/stdarg.h \
+  /usr/lib/gcc/x86_64-linux-gnu/4.4.3/include/stdarg.h \
   scripts/kconfig/lxdialog/dialog.h \
   /usr/include/sys/types.h \
   /usr/include/features.h \
@@ -15,7 +15,7 @@ deps_scripts/kconfig/lxdialog/util.o := \
   /usr/include/bits/types.h \
   /usr/include/bits/typesizes.h \
   /usr/include/time.h \
-  /usr/lib/gcc/x86_64-linux-gnu/4.4.5/include/stddef.h \
+  /usr/lib/gcc/x86_64-linux-gnu/4.4.3/include/stddef.h \
   /usr/include/endian.h \
   /usr/include/bits/endian.h \
   /usr/include/bits/byteswap.h \
@@ -27,26 +27,22 @@ deps_scripts/kconfig/lxdialog/util.o := \
   /usr/include/bits/pthreadtypes.h \
   /usr/include/fcntl.h \
   /usr/include/bits/fcntl.h \
-  /usr/include/bits/stat.h \
   /usr/include/bits/fcntl2.h \
   /usr/include/unistd.h \
   /usr/include/bits/posix_opt.h \
-  /usr/include/bits/environments.h \
   /usr/include/bits/confname.h \
   /usr/include/getopt.h \
   /usr/include/bits/unistd.h \
   /usr/include/ctype.h \
   /usr/include/xlocale.h \
   /usr/include/stdlib.h \
-  /usr/include/bits/waitflags.h \
-  /usr/include/bits/waitstatus.h \
   /usr/include/alloca.h \
   /usr/include/bits/stdlib.h \
   /usr/include/string.h \
   /usr/include/bits/string.h \
   /usr/include/bits/string2.h \
   /usr/include/bits/string3.h \
-  /usr/lib/gcc/x86_64-linux-gnu/4.4.5/include/stdbool.h \
+  /usr/lib/gcc/x86_64-linux-gnu/4.4.3/include/stdbool.h \
   /usr/include/libintl.h \
   /usr/include/locale.h \
   /usr/include/bits/locale.h \

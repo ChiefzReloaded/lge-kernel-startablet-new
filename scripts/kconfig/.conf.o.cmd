@@ -12,7 +12,7 @@ deps_scripts/kconfig/conf.o := \
   /usr/include/bits/wordsize.h \
   /usr/include/gnu/stubs.h \
   /usr/include/gnu/stubs-64.h \
-  /usr/lib/gcc/x86_64-linux-gnu/4.4.5/include/stddef.h \
+  /usr/lib/gcc/x86_64-linux-gnu/4.4.3/include/stddef.h \
   /usr/include/bits/locale.h \
   /usr/include/xlocale.h \
   /usr/include/ctype.h \
@@ -25,14 +25,12 @@ deps_scripts/kconfig/conf.o := \
   /usr/include/libio.h \
   /usr/include/_G_config.h \
   /usr/include/wchar.h \
-  /usr/lib/gcc/x86_64-linux-gnu/4.4.5/include/stdarg.h \
+  /usr/lib/gcc/x86_64-linux-gnu/4.4.3/include/stdarg.h \
   /usr/include/bits/stdio_lim.h \
   /usr/include/bits/sys_errlist.h \
   /usr/include/bits/stdio.h \
   /usr/include/bits/stdio2.h \
   /usr/include/stdlib.h \
-  /usr/include/bits/waitflags.h \
-  /usr/include/bits/waitstatus.h \
   /usr/include/sys/types.h \
   /usr/include/time.h \
   /usr/include/sys/select.h \
@@ -49,7 +47,6 @@ deps_scripts/kconfig/conf.o := \
   /usr/include/bits/string3.h \
   /usr/include/unistd.h \
   /usr/include/bits/posix_opt.h \
-  /usr/include/bits/environments.h \
   /usr/include/bits/confname.h \
   /usr/include/getopt.h \
   /usr/include/bits/unistd.h \
@@ -59,7 +56,7 @@ deps_scripts/kconfig/conf.o := \
   scripts/kconfig/lkc.h \
     $(wildcard include/config/list.h) \
   scripts/kconfig/expr.h \
-  /usr/lib/gcc/x86_64-linux-gnu/4.4.5/include/stdbool.h \
+  /usr/lib/gcc/x86_64-linux-gnu/4.4.3/include/stdbool.h \
   /usr/include/libintl.h \
   scripts/kconfig/lkc_proto.h \
 
